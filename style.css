@@ -36,7 +36,6 @@ a:hover {
 
 }
 
-
 /* Classi BOX e PAGE*/
 
 .box {
@@ -136,7 +135,6 @@ div.header_mobile > div:nth-child(3) {
     margin-right: 0;
 }
 
-
 .img_header {
     display: block;
     margin-left: 70%;
@@ -183,7 +181,6 @@ section.home_articles {
     justify-content: space-between;
     flex-direction: column;
     gap: 5px;
-    /*border: 2px solid black;*/
 }
 
 .under_header {
@@ -321,7 +318,6 @@ footer {
     flex-direction: row;
 }
 
-
 /* MEDIA QUERIES */
 
 @media screen and (max-width: 480px) {
@@ -334,7 +330,6 @@ footer {
     .header_mobile {
         display: none;
     }
-
 }
 
  @media screen and (max-width: 767px) {
@@ -396,11 +391,3 @@ footer {
         max-width: 80%;
     }
     }
-
-
-
-
-
-
-
-
